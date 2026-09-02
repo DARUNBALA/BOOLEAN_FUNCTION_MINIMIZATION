@@ -47,9 +47,9 @@ endmodule
 
 
 
-Developed by:AASHIK.A
+Developed by:DARUNBALA.S
 
-RegisterNumber:21222504005
+RegisterNumber:212225230040
 
 **RTL realization**
 
